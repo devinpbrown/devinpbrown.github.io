@@ -98,6 +98,9 @@ nav.site-nav a.current {
   height: auto;
   border-radius: 4px;
   margin-bottom: 18px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .project-photo.small {
   max-width: 400px;
