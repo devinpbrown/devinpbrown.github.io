@@ -94,7 +94,7 @@ nav.site-nav a.current {
 /* Photos are shown large (full column width). To make a specific photo
    smaller, add a "small" attribute: <img class="project-photo small" ...> */
 .project-photo {
-  width: 100%;
+  width: 80%;
   height: auto;
   border-radius: 4px;
   margin-bottom: 18px;
